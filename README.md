@@ -6,6 +6,8 @@ My name is Jacob Cassady.  I work at NASA Langley Research Center in the Flight 
 
 <h3> Areas of Interest
 
+<br>
+
 <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/c++%20-%230175C2.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/c%20-%2320232a.svg?&style=for-the-badge&logo=c&logoColor=white"/>
@@ -14,7 +16,8 @@ My name is Jacob Cassady.  I work at NASA Langley Research Center in the Flight 
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/keras%20-%23FF0000.svg?&style=for-the-badge&logo=keras&logoColor=white"/>
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/ros2%20-%2314354C.svg?&style=for-the-badge&logo=ros&logoColor=white"/>
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-</h3><br>
+</h3>
+<br>
 
 - Machine Learning
 - Robotics
