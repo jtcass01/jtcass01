@@ -10,6 +10,8 @@ My name is Jacob Cassady.  I work at NASA Langley Research Center in the Flight 
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/c++%20-%230175C2.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/c%20-%2320232a.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/OpenCV%20-%23FFBB00.svg?&style=for-the-badge&logo=Canonical&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/tensorflow%20-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/keras%20-%23FF0000.svg?&style=for-the-badge&logo=keras&logoColor=white"/>
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/ros2%20-%2314354C.svg?&style=for-the-badge&logo=ros&logoColor=white"/>
 <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </h3><br>
@@ -46,7 +48,7 @@ NASA’s Low-Earth Orbit Flight Test of an Inflatable Decelerator, or LOFTID, is
 - Mission Directorate: Space Technology Mission Directorate
 
 #### ARCSTONE
-One of the most challenging tasks in remote sensing from space is achieving required instrument calibration accuracy on-orbit. The Moon is considered to be an excellent exoatmospheric calibration source. However, the current accuracy of the Moon as an absolute reference is limited to 5 – 10%, and this level of accuracy is inadequate to meet the challenging objective of Earth Science observations. ARCSTONE is a mission concept that provides a solution to this challenge. An orbiting spectrometer flying on a small satellite in low Earth orbit will provide lunar spectral reflectance with accuracy sufficient to establish an SI-traceable absolute lunar calibration standard for past, current, and future Earth weather and climate sensors.
+One of the most challenging tasks in remote sensing from space is achieving required instrument calibration accuracy on-orbit. The Moon is considered to be an excellent exoatmospheric calibration source. However, the current accuracy of the Moon as an absolute reference is limited to 5 – 10%, and this level of accuracy is inadequate to meet the challenging objective of Earth Science observations. ARCSTONE is a mission concept that provides a solution to this challenge. An orbiting spectrometer flying on a small satellite in low Earth orbit will provide lunar spectral reflectance with accuracy sufficient to establish an SI-traceable absolute lunar calibration standard for past, current, and future Earth weather and climate sensors. [Taken from [https://science.larc.nasa.gov/ARCSTONE/](https://science.larc.nasa.gov/ARCSTONE/)]
 - Role: Software Engineer, developed controller and simulator for cryocooler
 - Mission Directorate: Science Directorate
 
