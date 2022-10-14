@@ -56,7 +56,9 @@ One of the most challenging tasks in remote sensing from space is achieving requ
 - Mission Directorate: Science Directorate
 
 #### Select Publications
-
+- Jacob T. Cassady, Chris Robinson, Dan O. Popa. 2020. Increasing user trust in a mobile robot using explainable AI in a traded control paradigm. In The 13th PErvasive Technologies Related to Assistive Environments Conference (PETRA ’19), June 30 – July 3, 2020, Corfu Island, Greece. ACM, New York, NY, USA.
+- N. H. James, J. R. Cooper, M. K. Mahlin, L. White, J. Cassady, J. Mulvaney, M. P. Vaughan and I. Wong. Assemblers Project Review: Building and Testing an Autonomous Modular and Reconfigurable Manipulation System. In 2022 AAIA SciTech Forum, January 3 – 7, 2022, San Diego, CA, USA.
+- Kyongchan Song, Martin Mikulas, Matthew K. Mahlin, Jacob T. Cassady. Sizing and Design Tool for Tall Lunar Tower. in 2023 AAIA SciTech Forum, January 23 – 27, 2023, National Harbor, MD, USA.
 
 #### Formal Education
 - B.S. Computer Science and Engineering, honors, University of Louisville J.B. Speed School
