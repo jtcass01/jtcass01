@@ -37,7 +37,7 @@ My first big project from my first programming class. Sometimes it's helpful to 
 ### Select NASA Mission History
 #### Tall Lunar Tower (TLT), renamed from TAALE
 TAALE is a compact, lightweight, and portable, low-power self-erecting tower for use on landers, exploration rovers, and robotic lunar surface operations. Because the lunar tower is multi-functional and autonomous, it can help close two capability gaps: over horizon communications; and landing within 50 meters of a specified landing site on the Moon. This project aims to demonstrate autonomous erection of a fixed lunar infrastructure, develop systems to improve the lunar towers to support payloads, demonstrate the creation of a local WiFi network for data transfer from the top of the tower to the bottom, and demonstrate a stable platform with power and data routing for landing site survey payloads. [Taken from [https://www.nasa.gov/feature/nasa-empowers-workforce-to-advance-deep-space-technologies](https://www.nasa.gov/feature/nasa-empowers-workforce-to-advance-deep-space-technologies)]
-  - Role: Co-lead Software and Autonomy
+  - Role: Software and Autonomy Lead
   - Mission Directorate: Research Directorate
 
 #### Assemblers
