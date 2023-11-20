@@ -67,4 +67,5 @@ One of the most challenging tasks in remote sensing from space is achieving requ
 
 #### Spoken Languages
 - English
+- Español
 - Français
