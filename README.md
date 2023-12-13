@@ -62,6 +62,7 @@ One of the most challenging tasks in remote sensing from space is achieving requ
 - Jacob T. Cassady, Chris Robinson, Dan O. Popa. 2020. Increasing user trust in a mobile robot using explainable AI in a traded control paradigm. In The 13th PErvasive Technologies Related to Assistive Environments Conference (PETRA ’19), June 30 – July 3, 2020, Corfu Island, Greece. ACM, New York, NY, USA.
 
 #### Formal Education
+- M.S. Robotics and Autonomous Systems, Johns Hopkins Whiting School of Engineering [IN PROGRESS]
 - B.S. Computer Science and Engineering, honors, University of Louisville J.B. Speed School
 - B.S. Electrical Engineering, honors, University of Louisville J.B. Speed School
 
