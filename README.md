@@ -25,8 +25,8 @@ My name is Jacob Cassady.  I work at NASA Langley Research Center in the Flight 
 - Control Systems
 
 ### Select Public Repositories
-#### [SIMON - Sign Interfaced Machine Operating Network](https://github.com/jtcass01/SIMON)
-This is a project that spanned a few of my undergrad courses.  I'd inject this work whenever we were free to pick the topic. The purpose of the Sign-Interfaced Machine Operating Network, or SIMON, is to develop a machine learning classifier capable of detecting a discrete set of American Sign Language (ASL) presentations from captured images of a hand and producing a desired response on another system. SIMON can utilize a variety of neural networks (nets) for producing its predictions including a classic deep neural net and a ResNet50 convolutional model.
+#### [A Study on the Efficacy of Using Eigenfaces in Image Classification](https://github.com/jtcass01/Eigenfaces-In-Image-Classification)
+The increased use of image classification in technology today has incited a rise in research and development for new approaches in facial detection and identification models. Two common problems in image classification are storing large datasets and model training costs. One approach to achieving dimensionality reduction while maintaining performance is Principal Component Analysis where a subset of eigenvectors, also known in the domain of facial detection as ``eigenfaces'', are used to represent the data in a lower dimensionality space. This paper presents an image classification model based on eigenfaces and support vector machines using the Amsterdam Dynamic Facial Expression Set (ADFES) dataset. Implementation of an image classification model is described, and performance analysis of the model is presented with a focus on the efficacy of using eigenfaces when training the model.
 
 #### [Neural Network Design](https://github.com/jtcass01/Neural-Network-Design)
 Notes on the first 4 chapters of Neural Network Design by Hagan, et al. I don't plan to finish but a lot of people have found value in them.
