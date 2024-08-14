@@ -1,6 +1,5 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Bienvenue
 [![Linkedin Badge](https://img.shields.io/badge/-Jacob_Cassady-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacob-cassady-315497120/)](https://www.linkedin.com/in/jacob-cassady-315497120/)
-[![Twitter Badge](https://img.shields.io/badge/-@Jacob__Cassady-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Jacob_Cassady)](https://twitter.com/Jacob_Cassady)
 
 My name is Jacob Cassady.  I work at NASA Langley Research Center in the Flight Software Systems Branch.  My current focus is autonomy; most of my time is spent as co-lead for the software and autonomy of the Tall Lunar Tower mission.
 
